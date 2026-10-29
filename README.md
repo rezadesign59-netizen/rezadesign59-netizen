@@ -48,7 +48,7 @@ A website analysis tool focused on GEO (Generative Engine Optimization).
 - **Website:** [syvo.ir](https://syvo.ir/)
 - **Hiper Directory:** [syvo.ir/hiper](https://syvo.ir/hiper/)
 - **GEO Analyzer:** [syvo.ir/syvo-geo-analyzer](https://syvo.ir/syvo-geo-analyzer/)
-- **Contact:** [Get in touch through Syvo](https://syvo.ir/%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D9%85%D8%A7/)
+- **Contact:** [Get in touch through Syvo](https://syvo.ir/contact-us/)
 
 ---
 
